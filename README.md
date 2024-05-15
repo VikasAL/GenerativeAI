@@ -1,2 +1,2 @@
 # GenerativeAI
-This repository contains Genrative AI driven projects
+This repository contains Generative AI driven projects
