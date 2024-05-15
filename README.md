@@ -1,2 +1,2 @@
 # GenerativeAI
-This repository contains Genrative AI driver projects
+This repository contains Genrative AI driven projects
